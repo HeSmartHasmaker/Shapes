@@ -7,5 +7,5 @@ All shapes possible in c
 Rectangle and Hollow Rectangle.
 
 (31/10/2019)
-Half Pyramid and Inverted Half Pyramid.
+Half Pyramid, Inverted Half Pyramid and Hollow Inverted Half Pyramid.
 
